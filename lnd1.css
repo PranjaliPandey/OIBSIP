@@ -1,0 +1,71 @@
+.flex{
+    display :flex;
+}
+
+.item-center{
+    align-items: bottom;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.font-bold{
+    width:bolder;
+
+}
+
+.flex col{
+    flex direction:column;
+     
+
+}
+.my1{
+margin-top: 13px;
+margin-bottom: 13px;
+}
+
+.my1 text-center{
+    text-align:right ;
+}
+
+.my2{
+    margin-top: 13px;
+    margin-bottom:13px;
+    }
+
+.px2{
+    padding-left :13px;
+    padding-right: 13px;
+}
+
+.px1{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+.text-maroon{
+    color:maroon;
+}
+
+.btn{
+    padding: 4px 12px;
+    border:2px white;
+    border-radius: 6px;
+    color:antiquewhite;
+    background-color: maroon;
+}
+
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+
+.text-center{
+    text-align:bottom;
+.text-align ul li{
+    text-align: center;
+}
